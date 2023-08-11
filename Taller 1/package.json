@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "birthday-calculator": "^1.0.0"
+  },
+  "devDependencies": {
+    "convert-seconds": "^1.0.1",
+    "is-hex-color-code": "^1.0.0",
+    "week": "^0.2.0"
+  }
+}
